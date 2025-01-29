@@ -22,7 +22,7 @@
     source venv/Scripts/activate
     ```
 
-5. Установите зависимости:
+5. Установите зависимости для работы client.py:
     ```sh
     pip install -r requirements.txt
     ```
